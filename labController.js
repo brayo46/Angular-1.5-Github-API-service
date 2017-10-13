@@ -9,7 +9,7 @@ app.controller('labController', [
             result: 'Ready',
         };
 
-        $scope.checkOddNumber = checkOddNumber;
+        
 
         $scope.getRepos = getRepos;
 
