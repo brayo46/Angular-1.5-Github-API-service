@@ -41,7 +41,7 @@ app.controller('labController', [
             $scope.model.detail = gitHub.getDetail({ id: name });
         }
 
-        //history of gods
+        
 
 
 
